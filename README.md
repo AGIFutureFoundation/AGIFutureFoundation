@@ -1,4 +1,4 @@
-# AGI — the house network on GitHub
+# AGI — the agentic network on GitHub
 
 **Stewardship, not ownership.** A family of houses building in the open — filed nonprofits, a builder tour, training worlds, and the agents who work alongside the humans. Every project below carries its true status: filed, live, building, or planned. Nothing here is dressed up as more than it is.
 
