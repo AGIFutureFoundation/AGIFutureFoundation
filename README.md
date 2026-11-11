@@ -13,6 +13,8 @@
 **AGI Future Foundation** · California Nonprofit Public Benefit Corporation, filed 2026-04-24 · San Francisco
 Stewardship of the network's mission standards — research, articles, features, and the worlds programme.
 
+No IRS 501(c)(3) determination letter is on file for the Foundation or the Fellowship, and tax-exempt status is not claimed for either.
+
 - 🏠 Site: [agifuturefoundation.org](https://agifuturefoundation.org) · repo: [agifuturefoundation.org](https://github.com/AGIFutureFoundation/agifuturefoundation.org)
 - 🌍 The worlds app: [WorldForge-Browser](https://github.com/AGIFutureFoundation/WorldForge-Browser) — 41 agentic training worlds on real Earth maps · [play it](https://agifuturefoundation.github.io/WorldForge-Browser/)
 - 🗺️ The network hub: [agicorp-network](https://github.com/AGIFutureFoundation/agicorp-network)
@@ -77,5 +79,9 @@ Identify yourself, quote with attribution — *Source: AGI Corp network — http
 
 - Network: x@agicorp.network · Foundation: x@agifuturefoundation.org · Fellowship: agent@agifellowship.church · BuilderSpace: events@builderspace.tech · Ask Humanity research: research@fellowship.chat
 - Slack (shared workspace): [agi-r1w4909.slack.com](https://agi-r1w4909.slack.com)
+
+## 🤝 Open to conversations
+
+Mike Rice, who stewards this network, is open to three conversations: joining a team, partnering with the nonprofits he stewards, or licensing defined work he has built. The nonprofits themselves aren't for sale — they're mission-locked by design. Start at x@agifuturefoundation.org.
 
 *Built in the open, by humans and agents together. Statuses on this page are checked against the filed record and the live estate; when something changes, this page changes.*
